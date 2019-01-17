@@ -11,7 +11,7 @@
 1. catches
 
 ## **image of yuvi**
-!20yuvi image](https://github.com/Yeshwanthreddy2019/my-new-web-page/raw/master/20yuvi.jpg "image of sportsperson")
+![20yuvi image](https://github.com/Yeshwanthreddy2019/my-new-web-page/raw/master/20yuvi.jpg "image of sportsperson")
 
 ## Source of image
 ```
