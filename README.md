@@ -13,7 +13,7 @@
 ## **image of yuvi**
 ![20yuvi image](https://github.com/Yeshwanthreddy2019/my-new-web-page/raw/master/20yuvi.jpg "image of sportsperson")
 
-## Source of image
+## the image where i found it
 ```
 https://www.google.com/search?q=yuvi&rlz=1C1GCEB_enUS831US832&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiC-eDv5_PfAhUEOKwKHSmpB0QQ_AUIDygC&biw=1366&bih=577#imgrc=dNetjHrcniQ8oM:
 ```
