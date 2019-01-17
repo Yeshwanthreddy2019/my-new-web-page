@@ -11,11 +11,11 @@
 1. catches
 
 ## **image of yuvi**
-![yuvraj singh](https://github.com/Yeshwanthreddy2019/my-new-web-page/blob/master/yuvi.jpg "image of sportsperson")
+![yuvraj singh](https://github.com/Yeshwanthreddy2019/my-new-web-page/blob/master/20yuvi.jpg "image of sportsperson")
 
 ## Source of image
 ```
-https://timesofindia.indiatimes.com/topic/Yuvraj-Singh
+https://www.google.com/search?q=yuvi&rlz=1C1GCEB_enUS831US832&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiC-eDv5_PfAhUEOKwKHSmpB0QQ_AUIDygC&biw=1366&bih=577#imgrc=dNetjHrcniQ8oM:
 ```
 ### About ###
 YeshwanthReddy Anumula
